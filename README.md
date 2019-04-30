@@ -1,2 +1,0 @@
-# eureka-service
-eureka-service
